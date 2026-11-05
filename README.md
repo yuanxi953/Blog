@@ -14,40 +14,7 @@
 
 > [!WARNING]
 >
-> 修改本项目需要具备**前端开发**和**项目部署**能力。由于这是个人博客，代码经过深度定制，且可能会进行较大幅度的更新，建议您 Fork 后安心使用自己分支的版本；若需引入上游（本仓库）的新功能，建议重新 Fork 最新代码，以避免同步冲突。
->
-> 如果需要协助或有问题咨询，欢迎加入 QQ 群 169994096 讨论/闲聊，我会在空闲时尽力解答。
-
-> 主题吸收了 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) 的设计风格，命名为 **Clarity**，寓意清楚的阅读体验和清晰的观点表达。限于下游越来越多，未来将会有选择地收录。
-
-版本以站点公开信息为准（2026-09-06）。
-
-| 博客名称                                     | 作者            | 线上版本    | 特色                           |
-| -------------------------------------------- | --------------- | ----------- | ------------------------------ |
-| **[纸鹿摸鱼处](https://blog.zhilu.site/)**   | **L33Z22L11**   | v3.7.1      | 上游                           |
-| [希乐博客](https://blog.xlenco.top/)         | Xlenco          | 未公开      | 最新评论、更新日志             |
-| [Mugzx's Blog](https://blog.mugzx.top/)      | Mugzx           | v3.7.1      | 精简导航、Umami 统计           |
-| [喵洛阁](https://blog-v3.kemeow.top/)        | Kemeow815       | 未公开      | 番剧、影视、书房、游戏页       |
-| [钟神秀](https://blog.zsxcoder.top/)         | mcyzsx          | v3.6.0      | 朋友圈、即刻、装备、追番       |
-| [梦爱吃鱼](https://blog.bsgun.cn/)           | JLinmr          | v3.6.0      | 鱼塘、瞬间、最新评论           |
-| [Mikuの极光星](https://blog.sotkg.com/)      | PaloMiku        | v3.7.0      | Linux 与 Galgame 长文、游戏页  |
-| [BiuXin-s Blog](https://blog.biuxin.de/)     | damizai         | 未公开      | 鱼塘、说说、最新评论           |
-| [液泡部落格](https://blog.vacu.top/)         | VacuolePaoo     | v3.7.1      | 开发工具配置、技术与思考       |
-| [闻絮语](https://www.wxuyu.top/)             | wxuyu           | v3.6.5      | 友链轮播、追更历史、音乐控制   |
-| [落憾](https://blog.luoh.org/)               | LuoH-AN         | v3.7.1      | 原创诗词、闲言、今日诗词       |
-| [fishcpy的小破站](https://blog.fis.ink/)     | fishcpy         | v3.4.8      | 鱼塘、时间盒、监控美化         |
-| [六月墨语](https://blog.june.ink/)           | Akuma-real      | v3.7.1      | 说说、访客卡片、音乐           |
-| [Cталин博客](https://blog.jiclub.site/)      | StalinDev54     | v3.4.8      | 生活长文、动态、关于页         |
-| [栖童の小站](https://blog.linux-qitong.top/) | Linux-qitong    | v3.7.1      | 标签、友圈、Linux 实践         |
-| [鹊楠の小窝](https://blog.quenan.cn/)        | QNquenan        | v3.4.9      | 建站教程、公告、更新日志       |
-| [KingKangBlog](https://blog.kingkang.xyz/)   | KingStoning     | v3.4.9      | 标签筛选、大学随笔             |
-| [Axel's BLOG](https://blog.axelx.cn/)        | AxelEwan        | v3.7.0-rc.0 | 演唱会图文、动态               |
-| [AirTouchの小站](https://www.xsl.im/)        | AirTouch666     | v3.6.0      | 自部署教程、鱼塘、说说         |
-| [Olinl Blog](https://blog.olinl.com/)        | olinll          | v3.7.1      | 部署与容器教程、主题改造笔记   |
-| [古怪杂记本](https://blog.guuguai.site/)     | GuuGuai         | v3.6.3      | 考研复盘、Minecraft 长文       |
-| [敖苛记](https://blog.kayro.cn/)             | jeoor           | v3.7.1      | 相册、标签云、时间进度         |
-| [灯火不休时](https://blog.dhbxs.top/)        | dhbxs           | v3.7.0-rc.0 | Java 与大数据实践、碎碎念      |
-| [郭雨博](https://blog.guoyubo.cn/)           | guojiahaous-alt | v3.7.0-rc.0 | CTF 复盘、折叠好友、音乐播放器 |
+> 主题吸收了 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) 的设计风格，命名为 **Clarity**，寓意清楚的阅读体验和清晰的观点表达。
 
 ### 社区移植
 
