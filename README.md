@@ -1,4 +1,4 @@
-# 纸鹿摸鱼处
+# 元夕的博客
 
 [![框架](https://img.shields.io/badge/框架-Nuxt-00DC82?logo=Nuxt.js)](https://nuxt.com/)
 [![CMS](https://img.shields.io/badge/CMS-Nuxt%20Content-00DC82?logo=Nuxt.js)](https://content.nuxt.com/)
@@ -6,21 +6,7 @@
 [![访问统计](https://img.shields.io/badge/访问统计-Umami-000000?logo=Umami)](https://github.com/umami-software/umami)
 [![代码风格](https://img.shields.io/badge/代码风格-ESLint-4B32C3?logo=ESLint)](https://eslint.org/)
 
-我的第三代个人博客，于 2024 年 8 月 11 日上线。
-
-3.8.0 原生 CSS 迁移包含破坏性更改：不再默认提供 Sass 和 Stylelint。下游更新前请阅读 [迁移说明](MIGRATION.md)，保留 SCSS 定制的过渡方案也在其中。
-
-## 耻辱柱 / Hall of Shame
-
-> [!CAUTION]
-> - 部署前必须完成项目个性化配置与内容修改，不得将我的信息用于你的网站图标/名称，严禁将项目内我的文章以你的名义重新发布至公开环境。
-> - 部署前必须完成项目个性化配置与内容修改，不得将我的信息用于你的网站图标/名称，严禁将项目内我的文章以你的名义重新发布至公开环境。
-> - 部署前必须完成项目个性化配置与内容修改，不得将我的信息用于你的网站图标/名称，严禁将项目内我的文章以你的名义重新发布至公开环境。
-
-近期 Fork 项目后将我的文章部署在互联网且不遵守 CC 协议的行为增加，追查耗费了我巨大精力，因此我将直接将侵权网站列在此标题，希望能减少此类现象的发生。
-
-<!-- 1. 2025-12-05 [钟神秀](https://github.com/zsxcoder/Nuxt-blog-v3)：blog.zsxcoder.top《我们的设备被拿来做了什么：软件的背景行为》 -->
-<!-- 2. 2025-12-28 [Axel Beta](https://github.com/ErenAxel/blog-v3)：sc.axel.xin《我们的设备被拿来做了什么：软件的背景行为》《深色模式开发的最佳实践》《寻不回手工油糕》 -->
+我的个人博客，Fork 自[纸鹿](https://github.com/L33Z22L11)大佬的[第三代博客](https://github.com/L33Z22L11/blog-v3) 。
 
 -
 
