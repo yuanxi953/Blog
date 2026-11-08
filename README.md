@@ -9,7 +9,7 @@
 我的个人博客，Fork 自[纸鹿](https://github.com/L33Z22L11)大佬的[第三代博客](https://github.com/L33Z22L11/blog-v3) 。
 
 -
-
+<!-- 
 ## 使用本主题的博客
 
 > [!WARNING]
@@ -22,7 +22,7 @@
 | ------- | ----------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------- |
 | Hugo    | [it985/hugo-theme-clarity](https://github.com/it985/hugo-theme-clarity) | 开发中      | Pagefind、相册、说说                                                             |
 | Halo    | [acanyo/theme-clarity](https://github.com/acanyo/theme-clarity)         | v1.6.6      | 可配置小组件、分享海报；[应用市场](https://www.halo.run/store/apps/app-jglhpodw) |
-| Typecho | [jkjoy/theme-clarity](https://github.com/jkjoy/theme-clarity)           | v1.1.9      | 基于 Halo 版移植，图库、瞬间、追番                                               |
+| Typecho | [jkjoy/theme-clarity](https://github.com/jkjoy/theme-clarity)           | v1.1.9      | 基于 Halo 版移植，图库、瞬间、追番                                               | -->
 
 ## 特性
 
